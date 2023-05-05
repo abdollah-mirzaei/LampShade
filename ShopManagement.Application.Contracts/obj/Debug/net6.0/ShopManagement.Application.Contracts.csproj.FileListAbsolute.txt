@@ -1,0 +1,15 @@
+C:\Documents\source\LampShade\code\ShopManagement.Application.Contracts\bin\Debug\net6.0\ShopManagement.Application.Contracts.deps.json
+C:\Documents\source\LampShade\code\ShopManagement.Application.Contracts\bin\Debug\net6.0\ShopManagement.Application.Contracts.dll
+C:\Documents\source\LampShade\code\ShopManagement.Application.Contracts\bin\Debug\net6.0\ShopManagement.Application.Contracts.pdb
+C:\Documents\source\LampShade\code\ShopManagement.Application.Contracts\bin\Debug\net6.0\0_Framework.dll
+C:\Documents\source\LampShade\code\ShopManagement.Application.Contracts\bin\Debug\net6.0\0_Framework.pdb
+C:\Documents\source\LampShade\code\ShopManagement.Application.Contracts\obj\Debug\net6.0\ShopManagement.Application.Contracts.csproj.AssemblyReference.cache
+C:\Documents\source\LampShade\code\ShopManagement.Application.Contracts\obj\Debug\net6.0\ShopManagement.Application.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Documents\source\LampShade\code\ShopManagement.Application.Contracts\obj\Debug\net6.0\ShopManagement.Application.Contracts.AssemblyInfoInputs.cache
+C:\Documents\source\LampShade\code\ShopManagement.Application.Contracts\obj\Debug\net6.0\ShopManagement.Application.Contracts.AssemblyInfo.cs
+C:\Documents\source\LampShade\code\ShopManagement.Application.Contracts\obj\Debug\net6.0\ShopManagement.Application.Contracts.csproj.CoreCompileInputs.cache
+C:\Documents\source\LampShade\code\ShopManagement.Application.Contracts\obj\Debug\net6.0\ShopManagement.Application.Contracts.csproj.CopyComplete
+C:\Documents\source\LampShade\code\ShopManagement.Application.Contracts\obj\Debug\net6.0\ShopManagement.Application.Contracts.dll
+C:\Documents\source\LampShade\code\ShopManagement.Application.Contracts\obj\Debug\net6.0\refint\ShopManagement.Application.Contracts.dll
+C:\Documents\source\LampShade\code\ShopManagement.Application.Contracts\obj\Debug\net6.0\ShopManagement.Application.Contracts.pdb
+C:\Documents\source\LampShade\code\ShopManagement.Application.Contracts\obj\Debug\net6.0\ref\ShopManagement.Application.Contracts.dll
